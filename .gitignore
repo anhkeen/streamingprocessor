@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+target
+profiling/output_footfall/**
+.idea
+.DS_Store
+**/bin
+*/.gitignore
+
+.classpath
+.settings
+.project
+.cache-main
+*.swp
+*~
